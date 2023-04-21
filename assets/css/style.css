@@ -6,6 +6,7 @@
 .header-bg:hover {
     filter: none;
     -webkit-filter: grayscale(0);
+    background-color: red;
 }
 
 .header-list {
@@ -27,4 +28,8 @@
 
 .facebook-icon:hover {
 	color: #1877F2;
+}
+
+.card-heading-bg:hover img {
+	-webkit-filter: grayscale(0);
 }
