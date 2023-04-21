@@ -1,0 +1,30 @@
+.header-bg {
+	filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+
+.header-bg:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+}
+
+.header-list {
+	align-items: center;
+	display: flex;
+}
+
+.instagram-icon:hover {
+	color: #E4405F;
+}
+
+.linked-icon:hover {
+	color: #0A66C2;
+}
+
+.github-icon:hover {
+	color: #181717;
+}
+
+.facebook-icon:hover {
+	color: #1877F2;
+}
